@@ -10,6 +10,7 @@
 </head>
 <body>
 <form id="chat" action="">
+    <div></div>
     <div class="chat-result" id="chat-result">
         <input type="text" name="chat-user" id="chat-user">
         <input type="text" name="chat-message" id="chat-message">
